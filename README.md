@@ -1,5 +1,4 @@
-# sqlworkshop
-SQL Intro Workshop
+# Georgia Tech Library VizLab SQL Intro Workshop
 Liam Jagrowski
 Spring 2022
 
