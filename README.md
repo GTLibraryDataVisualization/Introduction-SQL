@@ -11,10 +11,10 @@ In scope: SQL queries and logic; relational data; SQL structure with tables; bas
 Out of scope: advanced queries, stored procedures; creating databases; accessing SQL through other methods (python, php ...), relational algebra / relational calculus
 
 Files:
-  info.docx : basic information on SQL - open this first
-  create_db.sql : contains code to create database
-  sql_workshop.sql : 
-  sql_shell.sql : contains only comments to guide code; this will be used the file where we code live in the workshop
+  1. info.docx : basic information on SQL - open this first
+  2. create_db.sql : contains code to create database
+  3. sql_workshop.sql : solutions file
+  4. sql_shell.sql : contains only comments to guide code; this will be used the file where we code live in the workshop
 
 Flow of workshop:
   1.	Discuss mySQL, relational data
